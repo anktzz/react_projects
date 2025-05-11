@@ -1,2 +1,2 @@
 # react_projects
-Some ract projects to build foundation
+Some react projects to build foundation
